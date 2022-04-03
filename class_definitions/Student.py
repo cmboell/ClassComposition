@@ -4,8 +4,8 @@ Program: Student.py
 Author: Colby Boell
 Last date modified: 04/03/2022
 
-The purpose of this program is to use a class that inherits from another class to display information about a
-student (which inherits from Person) and use functions to change major and update gpa
+The purpose of this program is to use a class composition. One class uses information from another class
+to display information about a student (getting info from person class) and use functions to change major and update gpa
 """
 
 # import
